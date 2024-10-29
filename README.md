@@ -17,7 +17,7 @@ allprojects {
 Then, include the modules as required
 ```groovy
 dependencies {
-    implementation 'com.github.BenMMcLean.LinkResolver:0.5.0'
+    implementation 'com.github.emilymclean.LinkResolver:0.5.0'
 }
 ```
 
